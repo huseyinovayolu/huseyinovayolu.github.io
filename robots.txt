@@ -1,0 +1,5 @@
+# robots.txt for www.elifeldemir.com
+User-agent: *
+Allow: /
+
+Sitemap: https://www.elifeldemir.com/sitemap.xml

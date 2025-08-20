@@ -1,0 +1,11 @@
+<!-- sitemap.xml -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Single-page site: list only the root URL (no fragment URLs) -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.elifeldemir.com/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
